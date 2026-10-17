@@ -16,9 +16,7 @@ Welcome to my Power BI portfolio repository! This project features two fully int
 
 An interactive dashboard designed to monitor and evaluate insurance policy portfolios, risk exposure, claim distributions, and financial metrics across diverse demographics[cite: 3].
 
-![Insurance Analysis Dashboard](<img width="1317" height="753" alt="Screenshot 2026-10-17 125208" src="https://github.com/user-attachments/assets/351dd301-445b-4df1-a7a6-459e902092c6" />
-)
-
+![Insurance Analysis Dashboard](images/insurance-dashboard.png)
 
 ### 🔍 Key Features & Metrics
 * **Demographic Breakdown**: Analyzes customer distributions spanning **5K Male** and **5K Female** active portfolios[cite: 3].
@@ -36,8 +34,7 @@ An interactive dashboard designed to monitor and evaluate insurance policy portf
 
 An operational intelligence dashboard built to track hospital footfall, patient demographics, department efficiency, and patient satisfaction ratings[cite: 4].
 
-![Healthcare Analysis Dashboard]<img width="1307" height="732" alt="Screenshot 2026-10-17 125310" src="https://github.com/user-attachments/assets/5771ce6c-f095-430d-8884-cf82ab3b5eb2" />
-
+![Healthcare Analysis Dashboard](images/healthcare-dashboard.png)
 
 ### 🔍 Key Features & Metrics
 * **Patient Volume & Breakdown**: 
